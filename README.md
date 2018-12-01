@@ -3,6 +3,8 @@ Training a 4 legged agent to walk in Crawler Unity Environment
 
 ## Crawler Unity Environment
 
+![crawler](images/crawler.png)
+
 * Set-up: A creature with 4 arms and 4 forearms.
 * Goal: The agents must move its body toward the goal direction without falling.
   * `CrawlerStaticTarget` - Goal direction is always forward.
