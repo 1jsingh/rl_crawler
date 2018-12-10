@@ -1,4 +1,5 @@
 # About
+<<<<<<< HEAD
 Training a 4 legged agent to walk in Crawler Unity Environment
 
 ## Crawler Unity Environment
@@ -22,3 +23,5 @@ Training a 4 legged agent to walk in Crawler Unity Environment
   * Visual Observations: None.
 * Reset Parameters: None
 * Benchmark Mean Reward: 2000
+=======
+>>>>>>> e75ea1601b597a38bb62863df8f2f865e8ea32a3
