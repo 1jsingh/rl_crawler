@@ -1,2 +1,4 @@
 *.sh
 *.app
+*.log
+unity_envs
