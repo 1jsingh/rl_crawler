@@ -1,5 +1,5 @@
 # About
-Training a 4 legged agent to walk in Crawler Unity Environment
+Training a 4 legged agent to walk in Crawler Unity Environment using D4PG algorithm
 
 ## Crawler Unity Environment
 
