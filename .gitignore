@@ -1,4 +1,5 @@
 *.sh
 *.app
 *.log
+.ipynb_checkpoints/
 unity_envs
