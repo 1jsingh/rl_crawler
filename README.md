@@ -1,5 +1,5 @@
 # About
-Training a 4 legged agent to walk in Crawler Unity Environment using D4PG algorithm
+Training a 4 legged agent to walk in Crawler Unity Environment using Proximal Policy Optimization(PPO)algorithm
 
 ## Crawler Unity Environment
 
